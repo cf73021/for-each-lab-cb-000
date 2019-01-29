@@ -3,3 +3,7 @@ var iterativeLog = (items) => {
     console.log(`${index}: ${element}`);
   });
 };
+
+ver iterate = (callback) => {
+  new_array = [""]
+}
