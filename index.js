@@ -6,6 +6,6 @@ var iterativeLog = (items) => {
 
 ver iterate = (callback) => {
   new_array = ["thingOne", "thingTwo", "thingThree"];
-  array.forEach(callback);
+  new_array.forEach(callback);
   return new_array
 }
