@@ -5,5 +5,5 @@ var iterativeLog = (items) => {
 };
 
 ver iterate = (callback) => {
-  new_array = [""]
+  new_array = ["thingOne", "thingTwo", "thingThree"]
 }
