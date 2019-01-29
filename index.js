@@ -9,3 +9,7 @@ ver iterate = (callback) => {
   new_array.forEach(callback);
   return new_array;
 };
+
+var doToArray = (array, callback) => {
+  array.forEach(callBack)
+}
