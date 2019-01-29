@@ -4,7 +4,7 @@ var iterativeLog = (items) => {
   });
 };
 
-ver iterate = (callback) => {
+var iterate = (callback) => {
   new_array = ["thingOne", "thingTwo", "thingThree"];
   new_array.forEach(callback);
   return new_array;
